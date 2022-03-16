@@ -11,4 +11,4 @@ The main idea is:
 
 3)if only index is over one of the keys change the transparency of the key.
 
-4)if both index and middle finger
+4)if both index and middle fingers are over a key add the letter of the key to the written text.
